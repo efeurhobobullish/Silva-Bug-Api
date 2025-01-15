@@ -1,17 +1,17 @@
 require("./doc/module.js")
 
 global.prefix = ['','!','.',',','#','/']
-global.owner = ['916909137213']
-global.ownMain = '916909137213'
-global.NamaOwner = '🦄드림 가이 Xeon' //
+global.owner = ['254755257907']
+global.ownMain = '254755257907'
+global.NamaOwner = '🦋🦋silva' //
 global.sessionName = 'session'
 global.connect = true // 
 global.namabot = 'X-EndPoint' //
-global.author = '🦄드림 가이 Xeon' //
-global.packname = 'Xeon-Bug-API' //
-global.url1 = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20' //
-global.url2 = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20' //
-global.linkgc = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
+global.author = '🦋🦋silva' //
+global.packname = '🦋🦋silva' //
+global.url1 = 'https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v' //
+global.url2 = 'https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v' //
+global.linkgc = 'https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v'
 global.delayjpm = 3500
  
 
