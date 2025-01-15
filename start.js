@@ -57,7 +57,7 @@ const botnumber = await question(chalk.green.bold(`
 
 
 
-please enter your bot number, for example: +916909137213:                               
+please enter your bot number, for example: +254700143167:                               
                                                                            
         
 
@@ -66,7 +66,7 @@ please enter your bot number, for example: +916909137213:
 
 `));
  {
-console.log(chalk.blue.bold(`🦄 YOUR NUMBER IS CONNECTED SUCCEFUL\n`))
+console.log(chalk.blue.bold(`🦋 YOUR NUMBER IS CONNECTED SUCCEFUL\n`))
 await sleep(1500)
 const code = await XeonBotInc.getPairingCode(botnumber.trim())
 console.log(chalk.green.bold(`[ Your WhatsApp Pair Code ] ${code}`))
@@ -107,7 +107,7 @@ XeonSession()
             console.log(chalk.blue.bold(`Connecting...`));
         } else if (connection === "open") {
 console.log(chalk.blue.bold(`Connected to ${XeonBotInc.user.id.split(":")[0]}`));
-            XeonBotInc.sendMessage("916909137213@s.whatsapp.net", { text: `🦄 Endpoint is online!!` });
+            XeonBotInc.sendMessage("254700143167@s.whatsapp.net", { text: `🦋Silva Endpoint is online!!` });
         }
     });
 
