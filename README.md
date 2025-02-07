@@ -78,7 +78,7 @@ GET ${api_link}/crashGroup?target=${grouplink}
 # Setup For Deployment 👇
 
 ## 🎯 Generate Pair Code For Session
-[![Silva](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/)
+[![Silva](https://repl.it/badge/github/quiec/whatsasena)](https://creds.silvatechinc.my.id/pair)
 
 ## ⚠️ Disclaimer
 
