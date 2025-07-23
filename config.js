@@ -1,8 +1,8 @@
 require("./doc/module.js")
 
 global.prefix = ['','!','.',',','#','/']
-global.owner = ['254755257907']
-global.ownMain = '254755257907'
+global.owner = ['2349014277524']
+global.ownMain = '2349014277524'
 global.NamaOwner = '🦋🦋silva' //
 global.sessionName = 'session'
 global.connect = true // 
